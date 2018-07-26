@@ -142,7 +142,7 @@ $domain = 'https://'.$_SERVER['SERVER_NAME'];
 	<footer class="text-center">
 		<hr />
 		<a href="#" data-toggle="modal" data-target="#how-it-works">How it works?</a> | <a href="https://github.com/bagocina/wubanner" target="_blank"><i class="fab fa-github"></i> Github</a><br />
-		Weatherunderground (WU), WU logo and Weather Stickers are owned by <a href="https://www.wunderground.com" target="_blank">The Weather Company, LLC, an IBM Business</a> |
+		Weather Underground (WU), Wunderground, WU logo and Weather Stickers are owned by <a href="https://www.wunderground.com" target="_blank">The Weather Company, LLC, an IBM Business</a> |
 		This page IS NOT owned and operated by <a href="https://www.wunderground.com" target="_blank">The Weather Company, LLC, an IBM Business</a><br />
 		This generator was developed by <a href="https://emeteo.sk" target="_blank">eMeteo.sk</a> | <a href="https://emeteo.sk" target="_blank">eMeteo.sk</a> has no responsibility for the use of this site. 
 	</footer>
