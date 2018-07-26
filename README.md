@@ -1,6 +1,6 @@
 # WUbanner
 
-*by Jan Neurcony from eMeteo.sk*
+*by Jan Neurocny from eMeteo.sk*
 
 *[https://wubanner.emeteo.sk][1]*
 
