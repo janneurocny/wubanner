@@ -1,3 +1,5 @@
+# :rotating_light::warning: Warning: Wunderground Stickers are no longer available! :warning::rotating_light:
+
 # WUbanner
 
 *by Jan Neurocny from eMeteo.sk*
